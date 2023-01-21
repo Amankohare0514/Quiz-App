@@ -1,0 +1,27 @@
+.score-section { 
+     height: 600px;
+     width: 1000px;
+     background-color: rgb(248, 246, 246);
+     box-shadow: 2px 2px 10px black;
+     text-align: center;  
+     color: black;
+   } 
+.certificate {
+     color: rgb(22, 18, 18);
+     text-shadow: 2px 1px 2px  rgb(243, 169, 169);
+   }
+.kohare{
+     font-size: 60px;
+     color:  red;
+     text-shadow: 2px 1px 2px  black;
+}
+img{
+height: 200px;
+width: 180px;
+background-color: aliceblue;
+}
+.score-button{
+     width: 200px;
+     box-shadow: 2px 2px 5px black;
+     border-radius: 15px;
+}
